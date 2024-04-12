@@ -74,7 +74,7 @@ footer{
 @media screen and (max-width:480px){
     .button{
         
-    width: 62px;
+    width: 70px;
     height: 62px;
     display: inline-block;
     border: 2px solid black;
