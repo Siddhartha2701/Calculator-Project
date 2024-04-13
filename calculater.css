@@ -105,10 +105,10 @@ header{
 
 
 
-/* @media screen and (max-width:380px){
+@media screen and (max-width:380px){
     .button{
         
-    width: 68px;
+    width: 65px;
     height: 62px;
     display: inline-block;
     border: 2px solid black;
@@ -129,12 +129,12 @@ header{
 }
 
 header{
-    left: 76px;
+    left: 70px;
     margin: auto;
 }
 
 
 }
- */
+
 
 
