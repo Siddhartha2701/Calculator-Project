@@ -99,42 +99,10 @@ footer{
 }
 
 header{
-        left: 90px;
+        left: 85px;
     margin: auto;
 }
 
 
-
-/* @media screen and (max-width:380px){
-    .button{
-        
-    width: 65px;
-    height: 62px;
-    display: inline-block;
-    border: 2px solid black;
-    text-align: center;
-    font-weight: bolder;
-    background-color: rgb(14, 236, 236);
-    border-radius: 10%;
-    font-size: 20px;
-
-    }
-    
-    
-.button span{
-    height: 55px;
-    text-align: center;
-    display: flex;justify-content: center;align-items: center;
-    padding: 2px;
-}
-
-header{
-    left: 70px;
-    margin: auto;
-}
-
-
-}
- */
 
 
