@@ -97,9 +97,7 @@ footer{
 }
 
 header{
-    display: flex;
-    justify-content: center;
-    aline-item: center;
+    margin-let: 50px;
 }
 
 
